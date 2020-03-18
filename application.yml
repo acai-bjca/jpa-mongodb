@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@jpa-mongodb-pllam.mongodb.net/test?retryWrites=true&w=majority
